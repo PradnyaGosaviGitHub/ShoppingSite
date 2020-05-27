@@ -4,7 +4,7 @@
 -Includes Front End (Angular) Back End (Spring Boot) and full database support(MySql) 
   
 Requirements 
--Show a list of Producct 
+-Show a list of Product
 -Add a product to shopping cart (CRUD) 
 -Shopping cart checkout 
 -User login/logout security 
